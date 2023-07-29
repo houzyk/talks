@@ -1,7 +1,9 @@
 # Philosophy Meets Code
 
 Date: 22 July 2023
+
 Venue: Developers Conference 2023 - Caudan Arts Centre
+
 Link: [MSCC - Agenda | Philosophy Meets Code](https://conference.mscc.mu/agenda/448041)
 
 ## References
