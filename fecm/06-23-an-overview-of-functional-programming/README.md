@@ -1,7 +1,10 @@
 # An Overview Of Functional Programming
 
+
 Date: 24 June 2023
+
 Venue: Front-End Coders Mauritius June Meet-up - Alludo
+
 Link: [React, Zustand, FP & Marketing](https://frontend.mu/meetup/45)
 
 ## Further References
