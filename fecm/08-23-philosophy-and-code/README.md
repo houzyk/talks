@@ -2,7 +2,7 @@
 
 Date: 26 Augest 2023
 
-Venue: Front-End Coders Mauritius June Meet-up - UDM
+Venue: Front-End Coders Mauritius August Meet-up - UDM
 
 Link: [August Meetup](https://frontend.mu/meetup/47)
 
