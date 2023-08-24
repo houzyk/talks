@@ -24,5 +24,9 @@ console.log("Test Cases - isHeterological", {
 
 // ! Paradox
 
-// isAutological(isHeterological)
-// isHeterological(isHeterological)
+try {
+  // isAutological(isHeterological)
+  // isHeterological(isHeterological)
+} catch (error) {
+  console.log("It's a bug!\n", error);
+}
