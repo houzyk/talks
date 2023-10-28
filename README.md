@@ -8,3 +8,7 @@
 ## Mauritius Software Craftmanship Community
 
 1. [Philosophy Meets Code](./mscc/devcon/07-23-philosophy-meets-code)
+
+## Google Developer Groups Mauritius
+
+1. [Implementing An Idempotent File Upload System Using Angular](./gdg-mauritius/10-23Implementing-an-idempotent-file-upload-system-using-Angular)
