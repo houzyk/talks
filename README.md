@@ -11,4 +11,8 @@
 
 ## Google Developer Groups Mauritius
 
-1. [Implementing An Idempotent File Upload System Using Angular](./gdg-mauritius/10-23Implementing-an-idempotent-file-upload-system-using-Angular)
+1. [Implementing An Idempotent File Upload System Using Angular](./gdg-mauritius/devfest/10-23Implementing-an-idempotent-file-upload-system-using-Angular)
+
+## Publicis Global Delivery
+
+1. [Thinking About Thinking Machines](./pgd/pgdconfmauritius/12-23-thinking-about-thinking-machines/)
