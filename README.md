@@ -1,6 +1,6 @@
 # Muhammad Houzair Koussa - Talks
 
-## Front-End Coders Mauritius
+## Coders.mu
 
 1. [An Overview Of Functional Programming](./fecm/06-23-an-overview-of-functional-programming)
 2. [Philosophy And Code](./fecm/08-23-philosophy-and-code)
