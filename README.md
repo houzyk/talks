@@ -2,9 +2,9 @@
 
 ## Coders.mu
 
-1. [An Overview Of Functional Programming](./fecm/06-23-an-overview-of-functional-programming)
-2. [Philosophy And Code](./fecm/08-23-philosophy-and-code)
-3. [Union And Intersection Types In TypeScript: A Deep Dive](./fecm/08-24-union-and-intersection-types-in-typescript:a-deep-dive)
+1. [An Overview Of Functional Programming](./coders.mu/06-23-an-overview-of-functional-programming)
+2. [Philosophy And Code](./coders.mu/08-23-philosophy-and-code)
+3. [Union And Intersection Types In TypeScript: A Deep Dive](./coders.mu/08-24-union-and-intersection-types-in-typescript:a-deep-dive)
 
 ## Mauritius Software Craftmanship Community
 
