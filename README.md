@@ -18,3 +18,8 @@
 ## Publicis Global Delivery
 
 1. [Thinking About Thinking Machines](./pgd/pgdconfmauritius/12-23-thinking-about-thinking-machines/)
+
+
+## University Of Mauritius
+
+1. [The Importance Of Fundamentals](./university_of_mauritius/computer_club_gdg_on_campus/)
