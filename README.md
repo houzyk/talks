@@ -6,7 +6,7 @@
 2. [Philosophy And Code](./coders.mu/08-23-philosophy-and-code)
 3. [Union And Intersection Types In TypeScript: A Deep Dive](./coders.mu/08-24-union-and-intersection-types-in-typescript:a-deep-dive)
 4. [LLM, Language And Meaning](./coders.mu/11-22-llm-language-meaning)
-5. 4. [The Curry-Howard Correspondence](./coders.mu/05-26-the-curry-howard-correspondence/)
+5. [The Curry-Howard Correspondence](./coders.mu/05-26-the-curry-howard-correspondence/)
 
 ## Mauritius Software Craftmanship Community
 
